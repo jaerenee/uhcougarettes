@@ -12,7 +12,7 @@ people:
 - name: Maryum Mateen
   pic: 1
   position: President
-  social:
+  #social:
    # - title: twitter
    #   url: #
    # - title: facebook
