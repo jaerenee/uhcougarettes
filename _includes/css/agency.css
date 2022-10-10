@@ -669,7 +669,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #ff7474;
+    background-color: #f7c2c2;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -840,7 +840,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #f7c2c2;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
